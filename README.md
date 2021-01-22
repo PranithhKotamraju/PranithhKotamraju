@@ -5,7 +5,7 @@ I'm currently studying Computer Software and Database Development program in Lam
 - 🔭 I’m currently working on Flutter.
 - 🌱 I’m currently learning Flutter advance topics.
 - 🤔 I’m looking for help with learning backend technologies.
-- 💬 Ask me about Fluter, Firebase, Android .
+- 💬 Ask me about Flutter, Firebase, Android .
 - 📫 How to reach me: [LinkedIn - Pranithh Kotamraju](https://www.linkedin.com/in/pranithh-kotamraju/), [Email - pranithhkrish@gmail.com](mailto:pranithhkrish@gmail.com)
 - 😄 Pronouns: He/His
 
