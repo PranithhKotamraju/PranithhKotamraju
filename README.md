@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**PranithhKotamraju/PranithhKotamraju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently studying software engineering technology program in Centennial College, Toronto, Canada
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Flutter.
+- 🌱 I’m currently learning Flutter advance topics.
+- 🤔 I’m looking for help with learning backend technologies.
+- 💬 Ask me about Fluter, Firebase, Android .
+- 📫 How to reach me: [LinkedIn - Pranithh Kotamraju](https://www.linkedin.com/in/pranithh-kotamraju/), [Email - pranithhkrish@gmail.com](mailto:pranithhkrish@gmail.com)
+- 😄 Pronouns: He/His
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Pranithh Kotamraju's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=PranithhKotamraju&show_icons=true&hide_border=true)
+
+
+### Thanks for dropping by, have a great day ahead!
