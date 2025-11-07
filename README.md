@@ -9,6 +9,6 @@ I'm currently studying Computer Software and Database Development program in Lam
 - 📫 How to reach me: [LinkedIn - Praneeth Kotamraju](https://www.linkedin.com/in/praneeth-kotamraju/), [Email - pranithhkrish@gmail.com](mailto:pranithhkrish@gmail.com)
 - 😄 Pronouns: He/His
 
-![Pranithh Kotamraju's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=PranithhKotamraju&show_icons=true&hide_border=true)
+![Praneeth Kotamraju's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=PranithhKotamraju&show_icons=true&hide_border=true)
 
 ### Thanks for dropping by, have a great day ahead!
